@@ -16,16 +16,6 @@
     position: relative;
 }
 .nav__notificaton {
-    background-color: var(--pink);
-    width: 20px;
-    height: 20px;
-    border-radius: 10px;
-    text-align: center;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: white;
-    font-size: 600;
     position: absolute;
     top: -15px;
     left: 20px;
